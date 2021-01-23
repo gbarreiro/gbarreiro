@@ -3,10 +3,10 @@ My name is Guillermo, I'm a graduated in Telecommunications Engineering and I'm 
 
 ### Technologies & Tools
 - **Programming languages**: Java, Python, C, Swift, Kotlin, TypeScript, JavaScript and PHP.
-- **Data Analysis & ML**: Pandas, Numpy, Scipy, Matplotlib, Scikit-learn, Jupyter Notebooks.
-- **Databases**: MySQL, SQLite and MongoDB.
-- **Workflows & Automation**: NiFi and Apache Airflow. CI/CD with Jenkins and Ansible.
-- **Backend**: Docker and Linux. Node.js + Express.
+- **Data Engineering**: ETL workflows (*Apache Airflow, NiFi*), data analysis (*Apache Spark, Pandas*), data visualization (*Matplotlib, Redash, Metabase*), Machine
+Learning (*scikit-learn*).
+- **Data Storage**: Relational databases (*MySQL*) and non-relational (*MongoDB*). Data lakes (*Delta Lake, Apache Hadoop*).
+- **Backend**: REST APIs design (*Flask, Node.js + Express, Swagger*). Docker and Linux. Basics on AWS and Azure.
 - **Frontend**: iOS, Android and Angular.
 
 ### My projects in GitHub
@@ -25,7 +25,11 @@ My name is Guillermo, I'm a graduated in Telecommunications Engineering and I'm 
 
 
 ### Writing
-I also write posts about technology in Medium, so [follow me](https://medium.com/@guille_barreiro) to stay tuned whenever I write something new. 
+I also write posts about technology in Medium, so [follow me](https://medium.com/@guille_barreiro) to stay tuned whenever I write something new. Some of my posts:
+- [Deploying Apache Airflow with Docker Compose](https://medium.com/gradiant-talks/deploying-apache-airflow-with-docker-compose-67eb19334f95)
+- [The MySQL Cheatsheet We All Need](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6), published in Better Programming.
+- [The Essential Docker, Dockerfile, and Docker Compose Cheat Sheet](https://medium.com/better-programming/the-essential-docker-dockerfile-and-docker-compose-cheat-sheet-8bf1c42876c1), published in Better Programming.
+- [Analyzing Worldwide Cuisines with Python and Foursquare API](https://towardsdatascience.com/analyzing-worldwide-cuisines-with-python-and-foursquare-api-e63455c14246), published in Towards Data Science.
 
 ### Connect in LinkedIn
 If you want to know more about me, check out my [LinkedIn profile](http://linkedin.com/in/guillermobf/).
