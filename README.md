@@ -28,6 +28,7 @@ Learning (*scikit-learn*).
 I also write posts about technology in Medium, so [follow me](https://medium.com/@guille_barreiro) to stay tuned whenever I write something new. Some of my posts:
 - [Deploying Apache Airflow with Docker Compose](https://medium.com/gradiant-talks/deploying-apache-airflow-with-docker-compose-67eb19334f95)
 - [The MySQL Cheatsheet We All Need](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6), published in Better Programming.
+- [Analyzing Erasmus Study Exchanges with Pandas](https://towardsdatascience.com/analyzing-erasmus-study-exchanges-with-pandas-e1da38896265), published in Towards Data Science.
 - [The Essential Docker, Dockerfile, and Docker Compose Cheat Sheet](https://medium.com/better-programming/the-essential-docker-dockerfile-and-docker-compose-cheat-sheet-8bf1c42876c1), published in Better Programming.
 - [Analyzing Worldwide Cuisines with Python and Foursquare API](https://towardsdatascience.com/analyzing-worldwide-cuisines-with-python-and-foursquare-api-e63455c14246), published in Towards Data Science.
 
