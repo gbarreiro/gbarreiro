@@ -1,5 +1,5 @@
 # Guillermo Barreiro
-My name is Guillermo, I'm a graduated in Telecommunications Engineering and I'm currently living in Vigo, Spain. I love IT since I was a child, as well as music, sports, gastronomy and traveling.
+My name is Guillermo, I'm a graduated in Telecommunications Engineering and I'm currently living in Aachen, Germany. I love IT since I was a child, as well as music, sports, gastronomy and traveling.
 
 ### Technologies & Tools
 - **Programming languages**: Java, Python, C, Swift, Kotlin, TypeScript, JavaScript and PHP.
@@ -26,6 +26,7 @@ My name is Guillermo, I'm a graduated in Telecommunications Engineering and I'm 
 
 ### Writing
 I also write posts about technology in Medium, so [follow me](https://medium.com/@guille_barreiro) to stay tuned whenever I write something new. Some of my posts:
+- [Analyzing My WhatsApp Database using SQL and Redash](https://towardsdatascience.com/analyzing-my-whatsapp-database-using-sql-and-redash-5ef9bd6a0b0)
 - [Deploying Apache Airflow with Docker Compose](https://medium.com/gradiant-talks/deploying-apache-airflow-with-docker-compose-67eb19334f95)
 - [The MySQL Cheatsheet We All Need](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6), published in Better Programming.
 - [Analyzing Erasmus Study Exchanges with Pandas](https://towardsdatascience.com/analyzing-erasmus-study-exchanges-with-pandas-e1da38896265), published in Towards Data Science.
